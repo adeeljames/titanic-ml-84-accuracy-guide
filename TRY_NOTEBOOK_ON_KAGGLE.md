@@ -1,7 +1,7 @@
 # 🚀 Try This Notebook on Kaggle (Live)
 
-![Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-blue?logo=kaggle)
-![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube)
+[![Kaggle](https://img.shields.io/badge/Open%20in-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/muhammadadeelai/titanic-from-zero-to-84-accuracy-guide)
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube)](https://www.youtube.com/@aiwithadeel)
 
 ---
 
